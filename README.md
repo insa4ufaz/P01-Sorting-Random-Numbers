@@ -16,7 +16,6 @@ implements multithreading for concurrent job processing in giving faster results
 
 ## How to run
 
-// to compile programs
 `javac Client.java LoadBalancingServer.java Server1.java Server2.java Server3.java`
-// to execute the generated main classfile
+
 `java Client`
